@@ -1,0 +1,8 @@
+names:
+- pothole
+- crack
+- manhole
+nc: 3
+path: /content/drive/MyDrive/team Pattern project **/data
+train: images/trainM
+val: images/valM
